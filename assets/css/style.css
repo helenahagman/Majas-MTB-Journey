@@ -310,6 +310,18 @@ footer {
       font-size: 18px;
     }
 
+    form {
+        width: 100%;
+    }
+
+    img {
+        width: 100%;
+    }
+
+    #menu {
+        line-height: 26px;
+    }
+
   }
 
   
