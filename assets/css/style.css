@@ -292,6 +292,14 @@ footer {
     [class*="col-"] {
       width: 100%;
     }
+
+    footer {
+        margin-top: 50px;
+    }
+
+    .event-text {
+        padding: 0px;
+    }
   }
   
   /* Styles for screens with a maximum width of 768px */
@@ -301,6 +309,30 @@ footer {
       font-size: 28px;
     }
 
+    #menu {
+        font-size: large;
+    }
+
+    .event-text, .about-text, .welcome-text {
+        font-size: 18px;
+    }
+    
+    .social-media-links {
+        padding-top: 30px;
+    }
+
+    form {
+        width: 100%;
+    }
+
+    form .text {
+        width: 50%;
+    }
+
+    .footer {
+        margin-top: 20px;
+    }
+
   }
   
   /* Styles for screens with a maximum width of 480px */
@@ -308,6 +340,13 @@ footer {
     /* For small screens: */
     h1 {
       font-size: 18px;
+      padding-top: 0px;
+      padding-bottom: 0px;
+    }
+
+    h2 {
+       font-size: 16px;
+       padding: 0;  
     }
 
     form {
@@ -320,6 +359,18 @@ footer {
 
     #menu {
         line-height: 26px;
+    }
+
+    .social-media-links {
+        padding-top: 0px;
+    }
+
+    .event-text, .about-text, .welcome-text {
+        padding: 0;
+    }
+
+    .footer {
+        margin-top: 50px;
     }
 
   }
