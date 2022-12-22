@@ -76,7 +76,7 @@ img {
 
 
 #menu {
-    font-size: small;
+    font-size: 18px;
     letter-spacing: 3px;
     text-align: center;
     padding-bottom: 30px;
@@ -239,6 +239,7 @@ footer {
     text-align: center;
     display: grid;
     padding-top: 100px;
+    font-size: 18px;
 }
 
 .social-media-links :hover {
@@ -289,6 +290,7 @@ footer {
  /* Styles for screens with a maximum width of 1200px */
   @media only screen and (max-width: 1200px) {
     /* For mobile phones: */
+    
     [class*="col-"] {
       width: 100%;
     }
@@ -305,12 +307,13 @@ footer {
   /* Styles for screens with a maximum width of 992px */
   @media only screen and (max-width: 992px) {
     /* For tablets: */
+   
     [class*="col-"] {
         width: 100%;
         text-align: center;
       }
      
-      [class*="col-"] .gallery {
+      .col-3 {
         width: 50%;
       }  
   
@@ -328,7 +331,7 @@ footer {
     
     .social-media-links {
         padding-top: 30px;
-        font-size: 20px;
+        font-size: 18px;
     }
 
     table, th, tr {
@@ -352,12 +355,13 @@ footer {
   /* Styles for screens with a maximum width of 768px */
   @media only screen and (max-width: 768px) {
     /* For tablets: */
+   
     h1 {
       font-size: 28px;
     }
 
     #menu {
-        font-size: 16px;
+        font-size: 20px;
     }
 
     .event-text, .about-text, .welcome-text {
@@ -366,6 +370,7 @@ footer {
     
     .social-media-links {
         padding-top: 30px;
+        font-size: 20px;
     }
 
     form {
@@ -406,15 +411,21 @@ footer {
 
     #menu {
         line-height: 26px;
+        font-size: 14px;
     }
 
     .social-media-links {
         padding-top: 0px;
+        font-size: 14px;
     }
 
     .event-text, .about-text, .welcome-text {
         padding: 0;
-        font-size: 12px;
+        font-size: 14px;
+    }
+
+    table, th, tr {
+        font-size: 14px;
     }
 
     .footer {
@@ -422,47 +433,3 @@ footer {
     }
 
   }
-
-  /* Styles for screens with a maximum width of 390px */
-  @media only screen and (max-width: 390px) {
-    /* For extra small screens: */
-    h1 {
-      font-size: 16px;
-      padding-top: 0px;
-      padding-bottom: 0px;
-    }
-
-    h2 {
-       font-size: 14px;
-       padding: 0;  
-    }
-
-    form {
-        width: 100%;
-    }
-
-    img {
-        width: 100%;
-    }
-
-    #menu {
-        line-height: 26px;
-        font-size: 12px;
-    }
-
-    .social-media-links {
-        padding-top: 0px;
-    }
-
-    .event-text, .about-text, .welcome-text {
-        padding: 0;
-    }
-
-    table {
-        font-size: 12px;
-    }
-
-  }
-
-  
-
