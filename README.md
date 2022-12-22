@@ -22,7 +22,15 @@
 <h2>Badges</h2>
 <p>CSS validation</p>
 <br>
-<p>HTML validation</p>
+<p>
+    <a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="http://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
+<br>
+<p>HTML validation complete with no errors</p>
 <br>
 
 <h2>Usage</h2>
