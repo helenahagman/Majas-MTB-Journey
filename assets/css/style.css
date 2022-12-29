@@ -282,7 +282,7 @@ footer {
 /* Default styles for all screen sizes */
 * {
     box-sizing: border-box;
-    padding: 10px;
+    padding: 4px;
     margin: auto;
     border: none;
   }
@@ -411,7 +411,7 @@ footer {
 
     #menu {
         line-height: 26px;
-        font-size: 14px;
+        font-size: 13px;
     }
 
     .social-media-links {
@@ -433,3 +433,50 @@ footer {
     }
 
   }
+
+  /* Styles for screens with a maximum width of 480px */
+  @media only screen and (max-width: 320px) {
+    /* For x-small screens: */
+    h1 {
+      font-size: 18px;
+      padding-top: 0px;
+      padding-bottom: 0px;
+    }
+
+    h2 {
+       font-size: 16px;
+       padding: 0;  
+    }
+
+    form {
+        width: 100%;
+    }
+
+    img {
+        width: 100%;
+    }
+
+    #menu {
+        line-height: 26px;
+        font-size: 13px;
+    }
+
+    .social-media-links {
+        padding-top: 0px;
+        font-size: 13px;
+    }
+
+    .event-text, .about-text, .welcome-text {
+        padding: 0;
+        font-size: 14px;
+    }
+
+    table, th, tr {
+        font-size: 14px;
+    }
+
+    .footer {
+        margin-top: 50px;
+    }
+
+   }
