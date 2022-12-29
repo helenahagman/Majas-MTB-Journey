@@ -1,6 +1,6 @@
 <a href="index.html">
         <div class="imgbox"> 
-        <img class="center-fit" alt="logo" src="assets/images/logo-maja2.webp"></div>
+        <img style="border:0;width:800px;height:300px" alt="logo" src="assets/images/logo-maja2.webp"></div>
      </a>
 
 <br>
@@ -52,8 +52,8 @@
 <h2>Usage</h2>
 <br>
 <p>
-   <img style="border:;width:450px;height:31px"
-        src="assets/images/lighthousecheck.jpg"
+   <img style="border:0;width:600px;height:320px;"
+        src="assets/images/lighthouse-check.jpg"
         alt="Lighthouse Check"/>
         </p>
 <br>
@@ -89,7 +89,7 @@
 <li>https://www.w3schools.com/ have been used for several smaller adjustments and especially the col inputs</li>
 <li>https://fonts.google.com/</li>
 </ul>
-
+<br>
 <h2>Live site</h2>
 <br>
 <p>https://helenahagman.github.io/Majas-MTB-Journey/</p>
