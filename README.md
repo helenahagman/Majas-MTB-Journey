@@ -12,9 +12,10 @@
 </p>
 <br>
 <p>
-   <a href="https://amiresponsive.co.uk/">
-   <img src="assets/images/responsivepage.jpg"
-    alt="amiresponsive.co.uk"/>
+   <a href="https://ui.dev/amiresponsive">
+   <img style="border:0;width:1000px;height:609px"
+    src="assets/images/responsive-page.jpg"
+    alt="Am I Responsive"/>
     </a>
 </p>
 <br>
@@ -67,7 +68,7 @@
 <li>https://validator.w3.org/</li>
 <li>https://jigsaw.w3.org/css-validator/</li>
 <li>https://www.webpagetest.org/</li>
-<li>https://amiresponsive.co.uk/</li>
+<li>https://ui.dev/amiresponsive</li>
 
 </ul>
 <br>
