@@ -22,6 +22,7 @@
 <h2>Features</h2>
 <br>
 <ul>
+  <li>The custom made logo in the header makes it easy to see what the page is about</li>
   <li>Contact form with email link and hoover function on send button</li>
   <br>
   <img src="assets/images/contactform.jpg"/>
