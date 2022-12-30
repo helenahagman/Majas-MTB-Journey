@@ -134,7 +134,10 @@
   <p>Special thanks to:</p>
  <ul>
   <li>My Mentor Jubril Akolade for input and useful tips.</li>
-  <li>Magnus Holst Fernsten for help with the Gallery page, specifically the col-6 and col-3 and the @media queries related to that when I couldnt get the right responsivity on smaller screens for the images. SHA codes: e73e2802c6db33a90653de160fe262c66bf0a875, e0237a06b3eacc9a4b3e014d98d1d7ed13428cea</li>
+  <li>Magnus Holst Fernsten for help with the Gallery page, specifically the col- and the @media queries related to that when I couldnt get the right responsivity on smaller screens for the images. ( SHA codes: e73e2802c6db33a90653de160fe262c66bf0a875, e0237a06b3eacc9a4b3e014d98d1d7ed13428cea )
+  <br>
+  <p>Updated: class="responsive" to class="col-3" on images in gallery html page <br>Updated @media queries: Commented out query for min-width: 1250px, added .col-6 and .col-3 width 50% to max-width: 1250px, added .col-3 width 100% to max-width: 750px</li>
+  </p>
   <li>https://www.w3schools.com/ have been used for several smaller adjustments and especially the col inputs</li>
   <li>https://fonts.google.com/</li>
  </ul>
