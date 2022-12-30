@@ -133,7 +133,8 @@
   <br>
   <p>Special thanks to:</p>
  <ul>
-  <li>Magnus Holst Fernsten and my Mentor Jubril Akolade for input and useful tips on how to proceed.</li>
+  <li>My Mentor Jubril Akolade for input and useful tips.</li>
+  <li>Magnus Holst Fernsten for help with the Gallery page, specifically the col-6 and col-3 and the @media queries related to that when I couldnt get the right responsivity on smaller screens for the images. SHA codes: e73e2802c6db33a90653de160fe262c66bf0a875, e0237a06b3eacc9a4b3e014d98d1d7ed13428cea</li>
   <li>https://www.w3schools.com/ have been used for several smaller adjustments and especially the col inputs</li>
   <li>https://fonts.google.com/</li>
  </ul>
